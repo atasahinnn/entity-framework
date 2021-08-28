@@ -1,0 +1,130 @@
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\EF-OneToMany.exe
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\EF-OneToMany.deps.json
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\EF-OneToMany.runtimeconfig.json
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\EF-OneToMany.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\EF-OneToMany.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\ref\EF-OneToMany.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\EF-OneToMany.pdb
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\obj\Debug\net5.0\EF-OneToMany.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\obj\Debug\net5.0\EF-OneToMany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\obj\Debug\net5.0\EF-OneToMany.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\obj\Debug\net5.0\EF-OneToMany.AssemblyInfo.cs
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\obj\Debug\net5.0\EF-OneToMany.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\obj\Debug\net5.0\EF-OneToMany.csproj.CopyComplete
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\obj\Debug\net5.0\EF-OneToMany.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\obj\Debug\net5.0\ref\EF-OneToMany.dll
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\obj\Debug\net5.0\EF-OneToMany.pdb
+C:\Users\aatas\Desktop\entity framework\EF-OneToMany\obj\Debug\net5.0\EF-OneToMany.genruntimeconfig.cache
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\EF-OneToMany.exe
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\EF-OneToMany.deps.json
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\EF-OneToMany.runtimeconfig.json
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\EF-OneToMany.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\EF-OneToMany.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\ref\EF-OneToMany.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\EF-OneToMany.pdb
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\obj\Debug\net5.0\EF-OneToMany.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\obj\Debug\net5.0\EF-OneToMany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\obj\Debug\net5.0\EF-OneToMany.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\obj\Debug\net5.0\EF-OneToMany.AssemblyInfo.cs
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\obj\Debug\net5.0\EF-OneToMany.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\obj\Debug\net5.0\EF-OneToMany.csproj.CopyComplete
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\obj\Debug\net5.0\EF-OneToMany.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\obj\Debug\net5.0\ref\EF-OneToMany.dll
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\obj\Debug\net5.0\EF-OneToMany.pdb
+C:\Users\aatas\Desktop\entity framework\FluentAPI - CodeFirst, DbFirst ve LINQ\obj\Debug\net5.0\EF-OneToMany.genruntimeconfig.cache
